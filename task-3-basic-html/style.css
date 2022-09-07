@@ -1,0 +1,28 @@
+.row-1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.row-2{
+    display: flex;
+    flex-direction: column;
+}
+body{
+    margin: 100px;
+}
+.icon{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.about{
+    display: flex;
+    flex-direction: row;
+}
+ul {
+    list-style-image: url(sqgreen.gif)
+  }
+table, th, td {
+    border:1px solid black;
+    text-align: center;
+
+  }
